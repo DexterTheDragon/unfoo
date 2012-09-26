@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/DexterTheDragon/unfoo.png)](http://travis-ci.org/DexterTheDragon/unfoo)
+
 # Unfoo
 
 Unfoo is a little shell script for extracting the contents of compressed files.
